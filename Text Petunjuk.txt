@@ -1,0 +1,35 @@
+========== HEADER ==========
+.nav__logo
+.LokoCofe
+
+.nav__link
+Home - Stories - Menu - About - Store
+
+
+========== HOME ==========
+.home__title
+Loko Cofe
+
+.home__product .home__price
+Matca Latte
+Rp15.000
+
+Milkcream Boba
+Rp20.000
+
+Chocolate
+Rp15.000
+
+Brown Sugar
+Rp17.000
+
+Ice Tropical
+Rp15.000
+
+.home__languages
+ES | EN
+
+.home__social-link
+https://www.facebook.com/
+https://www.instagram.com/
+https://twitter.com/
