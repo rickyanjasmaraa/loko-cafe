@@ -249,7 +249,7 @@ img {
 
 .home__product,
 .home__price{
-  font-size: var(--h3-font-size);
+  font-size: 2rem;
   margin-bottom: .25rem;
   color: var(--white-color);
 }
