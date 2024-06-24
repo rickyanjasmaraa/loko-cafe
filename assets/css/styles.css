@@ -139,7 +139,7 @@ img {
 .nav__togle{
   display: flex;
   font-size: 1.5rem;
-  color: var(--white-color);
+  color: var(--title-color);
   cursor: pointer;
 }
 
@@ -170,7 +170,7 @@ img {
 }
 
 .nav__link{
-  color: var(--white-color);
+  color: var(--title-color);
   font-weight: var(--font-semi-bold);
 }
 
